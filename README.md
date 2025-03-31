@@ -89,7 +89,7 @@ Label: 5  →  (означает 5-я буква в алфавите: 'Д')
 - Точность на валидации: 89.28%
 
 - Точность на тестовой выборке: 95.00%
-[](https://raw.githubusercontent.com/bbzet/kyrgyz-handletters-cam-ocr/refs/heads/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-03-29%20181014.png)
+![](https://raw.githubusercontent.com/bbzet/kyrgyz-handletters-cam-ocr/refs/heads/main/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-03-29%20181014.png)
 
 Модель уверенно обобщает данные и подходит для реального применения — распознавания рукописных кыргызских букв в режиме реального времени через веб-камеру.
 
